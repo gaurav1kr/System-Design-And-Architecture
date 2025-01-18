@@ -24,4 +24,4 @@
 
 ## 11. HTTP: The bridge for web-based interactions with WhatsApp.
 
-![alt text](image.png)
+![alt text](image.gif)
