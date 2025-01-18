@@ -1,0 +1,38 @@
+Here are some cloud design patterns that you must know as a senior engineer:
+
+
+12. Ambassador pattern
+Proxy managing communication between microservices.
+
+11. Backends for Frontends pattern
+Specialized backend services for different user interfaces (frontends).
+
+10. Bulkhead pattern
+Isolating components to prevent cascading failures in a system.
+
+9. Circuit Breaker pattern
+Limiting requests to prevent system overload during a failure or downtime.
+
+8. CQRS pattern
+Separating read and write operations for improved system scalability.
+
+7. Event Sourcing pattern
+Capturing and storing every state-changing event for data reconstruction.
+
+6. Materialized View pattern
+Precomputing and storing query results for faster data retrieval.
+
+5. Publisher-Subscriber pattern
+Communication pattern where senders notify many receivers.
+
+4. Rate Limiting pattern
+Restricting the rate of incoming requests to a system.
+
+3. Saga pattern
+Coordinating a series of transactions to maintain data consistency.
+
+2. Sidecar pattern
+Independent service extends the functionality of a main application.
+
+1. Throttling pattern
+Controlling the rate of processing to prevent resource exhaustion.
